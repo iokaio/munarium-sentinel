@@ -1,0 +1,13 @@
+# SPDX-License-Identifier: Apache-2.0
+[package]
+name = "munarium-sentinel"
+version = "0.1.0-dev"
+edition = "2024"
+rust-version = "1.98"
+license = "Apache-2.0"
+description = "Rebuildable event timelines, explicit evidence gaps, and bounded suspension requests."
+repository = "https://github.com/iokaio/munarium-sentinel"
+readme = "README.md"
+publish = false
+
+[dependencies]
